@@ -46,7 +46,7 @@ CSV (150k linhas)
 
 - Dataset sintético `Booking Value` e `Ride Distance` apresentam distribuição uniforme entre categorias de veículos, o que não reflete dados reais de mercado.
 - Receita perdida calculada via estimativa `Booking Value` não é registrado em corridas canceladas.
-- Valores decimais importados com inconsistência de localidade — tratados via divisão por 10 no Power Query
+- Valores decimais importados com inconsistência de localidade, tratados via divisão por 10 no Power Query
 
 ---
 
@@ -77,7 +77,7 @@ ncr_rides/
 
 ## 🎯 Recomendação operacional
 
-Implementar um **sistema de detecção de padrões suspeitos** que identifique motoristas com alta frequência de motivos genéricos de cancelamento, aplicando penalização progressiva — redução de corridas na fila e ajuste de taxa — até regularização do comportamento.
+Implementar um **sistema de detecção de padrões suspeitos** que identifique motoristas com alta frequência de motivos genéricos de cancelamento, aplicando penalização progressiva, redução de corridas na fila e ajuste de taxa indo até a regularização do comportamento.
 
 ---
 
