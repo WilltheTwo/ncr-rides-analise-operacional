@@ -1,4 +1,4 @@
-# NCR Rides — Análise Operacional 2024
+# NCR Rides Análise Operacional 2024
 
 ## 📌 Sobre o projeto
 
