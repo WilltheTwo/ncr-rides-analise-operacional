@@ -1,11 +1,11 @@
-# NCR Rides Análise Operacional 2024
+# Uber Análise Operacional 2024
 
 ## 📌 Sobre o projeto
 
 Projeto de análise de dados completo utilizando um dataset de **150.000 corridas** de uma empresa de transporte por aplicativo na região de Delhi/NCR, Índia.
 
 **Pergunta central:**
-> *"Quais fatores operacionais estão gerando perda de receita na NCR Rides, e como o comportamento de cancelamento de clientes e motoristas impacta a eficiência do serviço?"*
+> *"Quais fatores operacionais estão gerando perda de receita na Uber, e como o comportamento de cancelamento de clientes e motoristas impacta a eficiência do serviço?"*
 
 ---
 
